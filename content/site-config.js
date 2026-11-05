@@ -1,3 +1,7 @@
-// Optional public comments via Giscus (GitHub Discussions).
-// Set up https://giscus.app and replace these values. Leave blank to show setup message.
-window.FWS_COMMENTS = {repo:"",repoId:"",category:"Announcements",categoryId:""};
+
+window.FWS_COMMENTS = {
+  repo: "SahilPekde/finance-with-sahil",
+  repoId: "R_kgDOVVjM4w",
+  category: "Blog Comments",
+  categoryId: "DIC_kwDOVVjM484DJv2-"
+};
