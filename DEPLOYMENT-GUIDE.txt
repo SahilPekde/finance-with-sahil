@@ -1,0 +1,10 @@
+Finance with Sahil — Levels 1–3 expanded learning release
+
+1. Back up your existing GitHub repository.
+2. Extract this ZIP and upload its CONTENTS (not the parent folder) to the repository root.
+3. Replace matching files; commit to main.
+4. Wait for Cloudflare Pages deployment to succeed.
+5. Test /learn/accounting-foundations/, /learn/financial-analysis/, /learn/fpa-modelling/ and four quizzes per lesson.
+6. Levels 4–5 remain upcoming; no lesson content published for them.
+
+The package is prepared locally; no changes have been made to your live site.
